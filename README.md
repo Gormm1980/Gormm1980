@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**Gormm1980/Gormm1980** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Welcome to the Github of an Developer 
+### Welcome to my Dark Side of Force 
 
-Here are some ideas to get you started:
+I love to be a Full Stack developer and that's  why i'm getting new tech skills and update my skills always i can.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning MongoDB.
+
+- 💬 Ask me about my skills like 
+   -Vue.Js,
+     -React.js,
+       -Python,
+         -FLask,
+           -PHP,
+             -Laravel,
+               -Sql
+  -But i have more including my soft skills
+
+If you want to know more here is my linkedin https://www.linkedin.com/in/guillermo-santamaria-developer/
+
+
+
+ 
