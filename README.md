@@ -19,7 +19,10 @@ I love to be a Full Stack developer and that's  why i'm getting new tech skills 
      - and more... 
      - my soft skills are interesting too
 
-For more info here is my linkedin https://www.linkedin.com/in/guillermo-santamaria-developer/
+For more info here is my [linkedin](https://www.linkedin.com/in/guillermo-santamaria-developer/)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gormm1980)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
