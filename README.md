@@ -8,17 +8,18 @@ I love to be a Full Stack developer and that's  why i'm getting new tech skills 
 
 - 🌱 I’m currently learning MongoDB.
 
-- 💬 Ask me about my skills like 
-   -Vue.Js,
-     -React.js,
-       -Python,
-         -FLask,
-           -PHP,
-             -Laravel,
-               -Sql
-  -But i have more including my soft skills
+- 💬 Ask me about my skills like:
+     - Vue.Js
+     - React.js
+     - Python
+     - FLask
+     - PHP
+     - Laravel
+     - Sql
+     - and more... 
+     - my soft skills are interesting too
 
-If you want to know more here is my linkedin https://www.linkedin.com/in/guillermo-santamaria-developer/
+For more info here is my linkedin https://www.linkedin.com/in/guillermo-santamaria-developer/
 
 
 
