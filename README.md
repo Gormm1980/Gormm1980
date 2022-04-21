@@ -1,7 +1,8 @@
-<img  src="https://user-images.githubusercontent.com/79840216/164483020-8d957845-a7f0-401a-b1c3-5f5954a21fc2.jpeg" alt=""></img>
+<p align="center" width="300">
+<img align="center" width="200" src="https://user-images.githubusercontent.com/79840216/164483020-8d957845-a7f0-401a-b1c3-5f5954a21fc2.jpeg" alt=""></img>
 <h1 align="center"> 🪓I'm Gormm 🪓</h1>
 <h3 align="center">A dwarf frontend developer from 🏔️ Karaz a Karak 🏔️ </h3>
-
+</p>
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -32,11 +33,11 @@
  
  
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gormm1980&show_icons=true&locale=en&layout=compact" alt="gormm1980" /></p>
+<p align="center" width="300"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gormm1980&show_icons=true&locale=en&layout=compact" alt="gormm1980" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gormm1980&show_icons=true&locale=en" alt="gormm1980" /></p>
+<p align="center" width="300">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gormm1980&show_icons=true&locale=en" alt="gormm1980" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gormm1980&" alt="gormm1980" /></p>
+<p align="center" width="300"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gormm1980&" alt="gormm1980" /></p>
 
 
  
