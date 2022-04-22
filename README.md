@@ -1,7 +1,7 @@
 <p align="center" width="300">
 <img align="center" width="200" src="https://user-images.githubusercontent.com/79840216/164483020-8d957845-a7f0-401a-b1c3-5f5954a21fc2.jpeg" alt=""></img>
-<h1 align="center"> 🪓I'm Gormm 🪓</h1>
-<h3 align="center">A dwarf frontend developer from 🏔️ Karaz a Karak 🏔️ </h3>
+<h1 align="center">🪓I'm Gormm son of Garmm🪓</h1>
+<h3 align="center">A dwarf Full Stack developer from 🏔️ Karaz a Karak 🏔️</h3>
 </p>
 
 
