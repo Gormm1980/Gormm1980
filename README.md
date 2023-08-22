@@ -26,8 +26,7 @@
 
 
 
- 
-<p align="center" width="300"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gormm1980&show_icons=true&locale=en&layout=compact" alt="gormm1980" /></p> <p align="center" width="300">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gormm1980&show_icons=true&locale=en" alt="gormm1980" /></p>
+
 
 <p align="center" width="300"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gormm1980&" alt="gormm1980" /></p>
 
